@@ -20,7 +20,7 @@ flowchart TB
     MCU --> TS
     MCU --> LD
     TS --> SD
-    SD <--> |"Measure Temperature" | MCU
+    SD --> |"Measure Temperature" | MCU
     MCU --> |"Display to Screen" |LC
     LC --> LD
 
