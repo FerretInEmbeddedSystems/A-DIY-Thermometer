@@ -27,6 +27,7 @@ flowchart TB
 ```
 
 ## Project Structure Tree
+```
 DIYThermometer/
 ├── docs/
 │ ├── hardware/
@@ -44,6 +45,7 @@ DIYThermometer/
 │   └── test_temp.ino
 ├── README.md
 └── LICENSE
+```
 
 ## License
   This is obviously a copyleft document so that people have a base to build off of to learn temperature readings.
