@@ -48,4 +48,8 @@ DIYThermometer/
 ```
 
 ## License
-  This is obviously a copyleft document so that people have a base to build off of to learn temperature readings.
+
+This project is licensed under the **MIT License**. It is open-source and free to copy, modify, and distribute for private, academic, or commercial use, provided the original copyright notice is retained. 
+
+See the accompanying [LICENSE](./LICENSE) file for the full legal text.
+
